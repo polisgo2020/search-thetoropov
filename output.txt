@@ -1,0 +1,5 @@
+it 2 0 1 
+is 0 1 2 
+what 0 1 
+a 2 
+banana 2 
